@@ -1,5 +1,3 @@
-## Integrate with mytools - [ ] [Set up project integrations](https://git.bootcampcontent.com/Carleton-University/CARL-VIRT-DATA-PT-07-2023-U-LOLC/-/settings/integrations) 
-
 # sqlalchemy-challenge
 ## Instructions
 I've decided to treat myself to a long holiday vacation in Honolulu, Hawaii. To help with my trip planning, I decide to do a climate analysis of the area. The following sections outline the steps that I need to take to accomplish this task.
