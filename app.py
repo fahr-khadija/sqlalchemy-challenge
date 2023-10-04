@@ -92,9 +92,9 @@ def temperature_range(start_date, end_date=None):
 
     # Create a dictionary with temperature statistics
     stats_dict = {
-        "Minimum Temperature": temperature_stats[0].min_temperature,
-        "Average Temperature": temperature_stats[0].avg_temperature,
-        "Maximum Temperature": temperature_stats[0].max_temperature
+        "Minimum Temp": temperature_stats[0].min_temperature,
+        "Average Temp": temperature_stats[0].avg_temperature,
+        "Maximum Temp": temperature_stats[0].max_temperature
     }
 
     return jsonify(stats_dict)
