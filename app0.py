@@ -113,6 +113,7 @@ def temperature_range(start_date, end_date=None):
         ).filter(measurement.date >= start_date).all()
 
     # Create a dictionary for  temperature statistics
+    
     stats_dict = {
         "Minimum Temp": temperature_stats[0].min_temperature,
         "Average Temp": temperature_stats[0].avg_temperature,
